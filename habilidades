@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rado | Proyectos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Rado</h1>
+    <p>Qonfusai Indiferenteh</p>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="proyectos.html">Proyectos</a>
+      <a href="habilidades.html">Habilidades</a>
+      <a href="bootcamp.html">Bootcamp</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+<section>
+  <h2>Habilidades</h2>
+  <ul>
+    <li>Diseño gráfico experimental 🎨</li>
+    <li>HTML, CSS, JavaScript 💻</li>
+    <li>Edición de video 🎬</li>
+    <li>Figma y prototipado visual 🖌️</li>
+  </ul>
+</section>
+  
+  <footer>
+    <p>© 2025 Rado. Arte desde la confusión.</p>
+  </footer>
+
+  <div class="volver">
+  <a href="index.html" class="btn-volver">⬅️ Volver a página principal</a>
+</div>
+</body>
+</html>
